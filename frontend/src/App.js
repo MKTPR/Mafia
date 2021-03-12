@@ -4,7 +4,6 @@ import TopBarGame from './Components/TopBarGame';
 import GameEnv from './Components/GameEnv';
 import BottomBar from './Components/BottomBar';
 
-
 function App() {
     return (
         <div className="App">
